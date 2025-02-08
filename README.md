@@ -1,6 +1,6 @@
 <html>
 <head>
-    <style = text/css>
+    <stylesheet = text/css>
         * {
   box-sizing: border-box;
   margin: 0;
