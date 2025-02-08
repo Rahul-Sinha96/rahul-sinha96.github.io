@@ -3,8 +3,8 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE-edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="New (1).css">-->
-<title>Assignment Solution for Module 2</title>
+<link rel="stylesheet" href="New (1).css">
+  <title>Assignment Solution for Module 2</title>
 </head>
 <body>
  <h1>Our Menu</h1>
