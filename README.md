@@ -1,7 +1,4 @@
 # rahul-sinha96.github.io
-Our Menu 
-# html code
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
